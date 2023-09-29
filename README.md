@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Humberto Pohlenz</h1>
-<h3 align="center">Aspirante and desenvoliment and automation</h3>
+<h3 align="center">Development and automation aspirant</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
