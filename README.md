@@ -9,7 +9,9 @@
     
 <div style="display: inline_block"><br>
   
-  <img aling="center" alt="Python" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img aling="center" alt="Python" height="50" width="45" src=
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+           />
                     
           
 </div>
