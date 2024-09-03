@@ -2,7 +2,7 @@
 <h3 align="center">Development and Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://example.com/sua-foto-de-perfil.jpg" alt="Humberto Pohlenz" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://scontent.fcfc2-1.fna.fbcdn.net/v/t39.30808-1/449068579_2258437284502453_1976001425222629747_n.jpg?stp=dst-jpg_s200x200&_nc_cat=101&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=slUj7pjSifgQ7kNvgG4Sv5Z&_nc_ht=scontent.fcfc2-1.fna&oh=00_AYCH0qjPf1lhuQtiG_81EmeaGvUXaGANkUZ9moM-TAR9yg&oe=66DD7713" alt="Humberto Pohlenz" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
