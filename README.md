@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Humberto Pohlenz</h1>
+<h1 align="center"> I'm Humberto Pohlenz</h1>
 <h3 align="center">Development and Automation Enthusiast</h3>
 
 <p align="center">
